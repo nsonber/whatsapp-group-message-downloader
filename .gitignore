@@ -1,0 +1,9 @@
+vka-messages/
+__pycache__/
+*.pyc
+chromedriver
+chromedriver.exe
+token.json
+*.log
+LICENSE.chromedriver
+THIRD_PARTY_NOTICES.chromedriver
