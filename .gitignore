@@ -7,3 +7,4 @@ token.json
 *.log
 LICENSE.chromedriver
 THIRD_PARTY_NOTICES.chromedriver
+client_secret.json
